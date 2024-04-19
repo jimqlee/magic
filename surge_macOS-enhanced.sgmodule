@@ -70,7 +70,3 @@ events.launchdarkly.com = 127.0.0.1
 PROCESS-NAME,Microsoft Update Assistant,REJECT
 DOMAIN-SET, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax_Domain.list, DIRECT, update-interval=86400
 
-[URL Rewrite]
-^https?://(www.)?g.cn https://www.google.com 302
-^https?://(www.)?google.cn https://www.google.com 302
-^https?://(www.)?google.com.hk https://www.google.com 302
