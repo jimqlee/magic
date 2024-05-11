@@ -68,5 +68,6 @@ events.launchdarkly.com = 127.0.0.1
 [Rule]
 # 屏蔽微软升级进程
 PROCESS-NAME,Microsoft Update Assistant,REJECT
+DOMAIN-SET, https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt, REJECT-TINYGIF, update-interval=86400
 DOMAIN-SET, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMax/ChinaMax_Domain.list, DIRECT, update-interval=86400
 
