@@ -1,5 +1,6 @@
 name: DNS override
 desc: 覆盖 dns 配置
+category: DNS 增强
 
 dns:
   nameserver:
