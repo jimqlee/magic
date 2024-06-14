@@ -1,9 +1,10 @@
 # 屏蔽 postman 烦人的升级, REJECT
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,app.launchdarkly.com
 DOMAIN,events.launchdarkly.com
 DOMAIN,dl.pstmn.io
 DOMAIN,dl.postman.io
-DOMAIN,bifrost-https-v10.gw.postman.com
+DOMAIN-SUFFIX,postman.com
 DOMAIN,desktop.postman.com
 DOMAIN,analytics.getpostman.com
