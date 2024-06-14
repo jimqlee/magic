@@ -64,3 +64,6 @@ dl.postman.io = 127.0.0.1
 clientstream.launchdarkly.com = 127.0.0.1
 app.launchdarkly.com = 127.0.0.1
 events.launchdarkly.com = 127.0.0.1
+
+[Rule]
+ruleset,https://raw.githubusercontent.com/jimqlee/magic/main/postman_clash.list,REJECT-DROP
