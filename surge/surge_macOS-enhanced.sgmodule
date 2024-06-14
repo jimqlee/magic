@@ -56,14 +56,3 @@ disable-geoip-db-auto-update = false
 *.douyinpic.com = server:180.184.1.1
 *.feishu.cn = server:180.184.1.1
 
-# 屏蔽 postman 升级
-desktop.postman.com = 127.0.0.1
-bifrost-https-v10.gw.postman.com = 127.0.0.1
-dl.pstmn.io = 127.0.0.1
-dl.postman.io = 127.0.0.1
-clientstream.launchdarkly.com = 127.0.0.1
-app.launchdarkly.com = 127.0.0.1
-events.launchdarkly.com = 127.0.0.1
-
-[Rule]
-ruleset,https://raw.githubusercontent.com/jimqlee/magic/main/postman_clash.list,REJECT-DROP
