@@ -1,9 +1,9 @@
 # 屏蔽 postman 烦人的升级, REJECT
-.clientstream.launchdarkly.com
-.app.launchdarkly.com
-.events.launchdarkly.com
-.dl.pstmn.io
-.dl.postman.io
-.bifrost-https-v10.gw.postman.com
-.desktop.postman.com
-.analytics.getpostman.com
+DOMAIN,clientstream.launchdarkly.com
+DOMAIN,app.launchdarkly.com
+DOMAIN,events.launchdarkly.com
+DOMAIN,dl.pstmn.io
+DOMAIN,dl.postman.io
+DOMAIN,bifrost-https-v10.gw.postman.com
+DOMAIN,desktop.postman.com
+DOMAIN,analytics.getpostman.com
