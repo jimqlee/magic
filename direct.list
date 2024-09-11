@@ -1,4 +1,7 @@
-# 肥羊 dns
+# 肥羊
 DOMAIN-SUFFIX,ottdns.com
 # 咪咕直播
 DOMAIN-KEYWORD,iill
+# github 代理
+DOMAIN,mirror.ghproxy.com
+DOMAIN,cdn.jsdelivr.net
