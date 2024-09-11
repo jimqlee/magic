@@ -5,3 +5,7 @@ DOMAIN-KEYWORD,iill
 # github 代理
 DOMAIN,mirror.ghproxy.com
 DOMAIN,cdn.jsdelivr.net
+DOMAIN,stream1.misakfa.org
+DOMAIN,stream2.misakfa.org
+DOMAIN,stream3.misakfa.org
+DOMAIN,stream4.misakfa.org
