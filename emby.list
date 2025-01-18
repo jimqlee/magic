@@ -1,11 +1,2 @@
-DOMAIN,jcf.niceduck.lol
-DOMAIN,cf.niceduck.lol
-DOMAIN,vi.niceduck.lol
-DOMAIN,pilicf.niceduck.lol
-DOMAIN,dpxcf.niceduck.lol
-DOMAIN,dpxcdn.niceduck.lol
-DOMAIN,dpxcdn1.niceduck.lol
-DOMAIN,cfloacl.emby.moe
-DOMAIN,cfloacl2.emby.moe
-DOMAIN,loacl2.emby.moe
-DOMAIN,loacl.emby.moe
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
