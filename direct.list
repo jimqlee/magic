@@ -2,16 +2,9 @@
 DOMAIN-SUFFIX,ottdns.com
 # 咪咕直播
 DOMAIN-KEYWORD,iill
-# github 代理
 DOMAIN,mirror.ghproxy.com
 DOMAIN,cdn.jsdelivr.net
-# 流媒体
-DOMAIN-SUFFIX,stream1.misakfa.org
-DOMAIN-SUFFIX,stream2.misakfa.org
-DOMAIN-SUFFIX,stream3.misakfa.org
-DOMAIN-SUFFIX,stream4.misakfa.org
-# pixman
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
-# micu
 DOMAIN,tv.micu.hk
+DOMAIN-SUFFIX,xmaxvip.com
