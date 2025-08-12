@@ -1,14 +1,13 @@
-fe.xiaohongshu.com DOMAIN
-as.xiaohongshu.com
-apm-fe.xiaohongshu.com
-t2.xiaohongshu.com
-ads-img-al.xhscdn.com
-ads-img-qc.xhscdn.com
-ads-video-al.xhscdn.com
-ads-video-qc.xhscdn.com
-ads-vp5.xhscdn.com
-ads-*.xhscdn.com
-growth-img.xhscdn.com
-sns-webpic.xhscdn.com
-xhslive-video.xhscnd.com
-redbascket.com
+DOMAIN, fe.xiaohongshu.com
+DOMAIN, as.xiaohongshu.com
+DOMAIN, apm-fe.xiaohongshu.com
+DOMAIN, t2.xiaohongshu.com
+DOMAIN, ads-img-al.xhscdn.com
+DOMAIN, ads-img-qc.xhscdn.com
+DOMAIN, ads-video-al.xhscdn.com
+DOMAIN, ads-video-qc.xhscdn.com
+DOMAIN, ads-vp5.xhscdn.com
+DOMAIN, growth-img.xhscdn.com
+DOMAIN, sns-webpic.xhscdn.com
+DOMAIN, xhslive-video.xhscnd.com
+DOMAIN-SUFFIX, redbascket.com
