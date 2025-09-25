@@ -58,4 +58,10 @@ disable-geoip-db-auto-update = false
 *.douyincdn.com = server:180.184.1.1
 *.douyinpic.com = server:180.184.1.1
 *.feishu.cn = server:180.184.1.1
+# 屏蔽 postman 更新
+launchdarkly.com = 127.0.0.1        
+postman.com = 127.0.0.1
+dl.pstmn.io = 127.0.0.1
+dl.postman.io = 127.0.0.1
+analytics.getpostman.com = 127.0.0.1
 
